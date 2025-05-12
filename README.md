@@ -144,4 +144,3 @@ outputs/combined
 
 - [Captum AI](https://captum.ai/)
 - [TorchVision Models](https://pytorch.org/vision/stable/models.html)
-- Grape Leaf Disease Dataset
