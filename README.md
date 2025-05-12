@@ -1,4 +1,4 @@
-# 🍇 Grape Leaf Disease Detection with Explainability
+# 🍇 Visualizing Explanations of DCNN-Based Plant Leaf Disease Detection Using Combined Grad-CAM and LRP
 
 This project aims to classify grape leaf diseases using a fine-tuned VGG16 model, enhanced with state-of-the-art explainability techniques like **Grad-CAM++**, **Layer-wise Relevance Propagation (LRP)**, and their **combined visualizations**. Furthermore, the reliability of these explanations is quantitatively assessed using **infidelity metrics**.
 
